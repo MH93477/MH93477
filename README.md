@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 - **Languages**: Python
 - **Libraries**: pandas, NumPy, matplotlib, PyPortfolioOpt
-- **Tools**: JupyterLab, Excel, GitHub, WRDS Eventus, Bloomberg
+- **Tools**: JupyterLab, Excel, GitHub, WRDS Eventus, Bloomberg, STATA
 
 ---
 
